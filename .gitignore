@@ -1,0 +1,9 @@
+_build/
+.vscode/
+*~
+*.aux
+*.log
+*.gz
+*.code-workspace
+*.autosave
+conf.py

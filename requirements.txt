@@ -1,0 +1,14 @@
+sphinx
+pandas
+quantecon
+jupyter-book
+matplotlib
+numpy
+sphinx_proof
+sphinx_exercise    
+sphinxcontrib.tikz
+sphinxcontrib.mermaid 
+sphinx-inline-tabs
+pdf2svg
+latex
+
